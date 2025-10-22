@@ -50,19 +50,25 @@ Tip: Customize by changing cloud images, speed, or background colors. For a live
 This is a beginner-friendly project!
 
 Fork the repository.
+
 Create a new branch (git checkout -b feature/amazing-feature).
+
 Commit your changes (git commit -m 'Add some amazing feature').
+
 Push to the branch (git push origin feature/amazing-feature).
+
 Open a Pull Request
 
 ---
 
 ☁️ Final Note
 Like the clouds that move gently across the sky, this project reminds us that progress doesn’t have to be rushed — even small steps can create something beautiful in motion.
+
 Thank you for visiting this project 🌤️
 If it inspired you or helped you learn, give it a ⭐ and keep creating! 💙
 
 ---
+
 
 
 
