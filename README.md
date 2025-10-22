@@ -14,11 +14,11 @@ Built with **HTML**, **CSS**, and **JavaScript**, this project is perfect for be
 ## 🌟 Project Preview
 > See it in action!  
 
-**Live Demo:** [Deploy on GitHub Pages](https://pages.github.com/) (Enable in repo settings > Pages > Source: Deploy from a branch > main branch)  
+**Live Demo:** [Deploy on GitHub Pages](https://pages.github.com/) 
 
 ![Moving Clouds Screenshot](https://via.placeholder.com/800x400/87CEEB/FFFFFF?text=Moving+Clouds+Animation)  
-*(Note: Replace with actual screenshot.png once uploaded to the repo)*
 
+[*Note: Project is yet to be completed*]
 ---
 
 ## 📝 About the Project
@@ -46,7 +46,8 @@ Tip: Customize by changing cloud images, speed, or background colors. For a live
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
+
 This is a beginner-friendly project!
 
 Fork the repository.
@@ -61,13 +62,15 @@ Open a Pull Request
 
 ---
 
-☁️ Final Note
+##☁️ Final Note
+
 Like the clouds that move gently across the sky, this project reminds us that progress doesn’t have to be rushed — even small steps can create something beautiful in motion.
 
 Thank you for visiting this project 🌤️
 If it inspired you or helped you learn, give it a ⭐ and keep creating! 💙
 
 ---
+
 
 
 
